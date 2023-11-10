@@ -7,7 +7,7 @@ import MovieIcon from '@mui/icons-material/Movie';
 import MapsUgcIcon from '@mui/icons-material/MapsUgc';
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 import AddBoxIcon from '@mui/icons-material/AddBox';
-import Face3Icon from '@mui/icons-material/Face3';
+// import Face3Icon from '@mui/icons-material/Face3';
 const SideBar = ()=>{
     return(
         <div className="sidebarContainer">

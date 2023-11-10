@@ -5,7 +5,7 @@ import { myInfo } from "../../data/myinfo";
 import MyPost from "./MyPost";
 const Profile = () =>{
     return(
-        <div style={{display:'flex',gap:'15vw'}}>
+        <div style={{display:'flex',gap:'6vw'}}>
             <SideBar/>
             <div>
                 <Header myInfo ={myInfo}/>
